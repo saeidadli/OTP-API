@@ -63,6 +63,7 @@ Check out ```http://localhost:8080/``` to test if it's routing properly.
 I have found two ways to use the OTP API:
 
 1 - Routing: finds the best PT route connecting two locations.
+
 2 - Isochrone: finds the area accessible from a location by PT.
 
 examples of both routing and isochrone can be found in the ```ipynb\example.ipynb```.
