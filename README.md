@@ -58,7 +58,7 @@ Check out ```http://localhost:8080/``` to test if it's routing properly.
 
 ---
 
-## Scripting OTP
+## Use the OTP web API
 
 I have found two ways to use the OTP API:
 1 - Routing: finds the best PT route connecting two locations.
