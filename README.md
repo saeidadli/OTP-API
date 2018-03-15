@@ -67,5 +67,6 @@ I have found two ways to use the OTP API:
 2 - Isochrone: finds the area accessible from a location by PT.
 
 examples of both routing and isochrone can be found in the ```ipynb\example.ipynb```.
+list of control variables for OTP queries can be found in ```http://dev.opentripplanner.org/apidoc/1.0.0/index.html```.
 
 ---
